@@ -1,0 +1,10 @@
+[theme]
+primaryColor             = "#F4A900"   # kuning amber — tombol, tab aktif, slider
+backgroundColor          = "#FFFDF5"   # putih hangat — latar halaman utama
+secondaryBackgroundColor = "#FFF3C4"   # kuning muda — sidebar & card
+textColor                = "#3a2500"   # coklat tua — teks utama
+
+font = "sans serif"
+
+[server]
+maxUploadSize = 500
