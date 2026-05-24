@@ -76,7 +76,7 @@ st.markdown("""
 # ─── URL Dataset dari GitHub ──────────────────────────────────────────────────
 # Ganti URL di bawah dengan raw URL file CSV kamu di GitHub
 # Format: https://raw.githubusercontent.com/<username>/<repo>/<branch>/<path/file.csv>
-GITHUB_DATA_URL = "https://raw.githubusercontent.com/GITHUB_USERNAME/REPO_NAME/main/NYC%20Citi%20Bike%20Trips.csv"
+GITHUB_DATA_URL = "https://raw.githubusercontent.com/nisrinaaisyah2005-dev/Projek-Akhir-Cloud/refs/heads/main/NYC%20Citi%20Bike%20Trips.csv"
 
 # ─── Load & Cache Data ────────────────────────────────────────────────────────
 @st.cache_data(show_spinner="⏳ Memuat data dari GitHub...")
